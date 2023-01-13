@@ -121,7 +121,7 @@ function printProducts() {
                         </div>
         
                         <div class="product__info">
-                            <p>nombre: ${name}</p>
+                            <p>name: ${name}</p>
                             <p>stock: ${stock}</p>
                             <p>price: ${price}</p>
                         </div>
